@@ -36,6 +36,7 @@
 * OS: Windows 10/11 (64-bit).  
   
 ### Установка  
-1. Склонируйте репозиторий на свой локальный диск:  
+Склонируйте репозиторий на свой локальный диск:  
 ```bash  
-git clone [https://github.com/](https://github.com/)[ваш_логин]/[название_репозитория].git
+git clone https://github.com/needosleep/BurnOutGame.git
+```
