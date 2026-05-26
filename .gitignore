@@ -18,4 +18,3 @@ CrashReportClient/
 !/Build/*_Build/
 !/Build/**/*.exe
 !/Build/**/*.pak
-!/Build_StandaloneGame/
