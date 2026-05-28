@@ -5,7 +5,7 @@
   
 ## 🎮 Демо  
 
-https://www.youtube.com/watch?v=ePxbN5yXCPY
+https://vkvideo.ru/video337763852_456240474?list=ln-EKdMFI4X5pgZuDLTbK
   
 * ![Рабочее место игрока](Images/Room.png)  
 *Рис 1. Общий вид рабочего стола и конвейерных лент.*  
